@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "timescaledb-docker",
+  "versions": [
+    {
+      "commit": "62dc5d41b9b3e26e9cf8bbf682103fecef184d33",
+      "parsed_at": "2026-10-11T20:48:02.740505+00:00",
+      "filetree": "filetree/62dc5d41b9b3e26e9cf8bbf682103fecef184d33.nq.gz",
+      "blobs": [
+        "blob/39521b726d754885c5d7c21307d7c93c88d771f1.nq.gz",
+        "blob/948c76ba4aee9c9ea7541ebfbf1d4ca7e8944cd3.nq.gz",
+        "blob/6d9d67c4a094d460f318a761c72343ce8ba40b57.nq.gz",
+        "blob/8b06b8ad0b4573bcda94863472bda1551b248eee.nq.gz",
+        "blob/1db607f1b0912e1503061b2f69527f964e4ebab0.nq.gz",
+        "blob/b7614a3bb7a1dc27657c0be46c0f82f85294ac69.nq.gz",
+        "blob/f2affdd92b415e52a3035b6414df1816395a1e3e.nq.gz",
+        "blob/f2be5c36cdd7126c749b8deacf57d07b1108eddb.nq.gz",
+        "blob/51987ac390a0ef8f05fd5a7a792ce49db756abb8.nq.gz",
+        "blob/3132f2e99604c4351c6aeb6d1c8051d98b8ae814.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/ae3a81db8e0b4bf49b350f25a5e9bd801ce15560.nq.gz",
+        "blob/ef0ae0fbdb0e5f4911ce1b25732fece495c4862c.nq.gz",
+        "blob/139bdc745791b70a05095eb65ef783cbd2ae8a10.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
