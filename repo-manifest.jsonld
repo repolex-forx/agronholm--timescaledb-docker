@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/timescaledb-docker/commit/62dc5d41b9b3e26e9cf8bbf682103fecef184d33",
       "git:hexsha": "62dc5d41b9b3e26e9cf8bbf682103fecef184d33",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T20:49:49.232562+00:00"
     }
   ]
 }
